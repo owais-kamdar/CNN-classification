@@ -23,7 +23,7 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/owais-kamdar/CNN-classification.git
 cd project-detection
 ```
 
