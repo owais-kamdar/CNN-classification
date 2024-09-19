@@ -1,0 +1,15 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore TensorFlow checkpoints
+*.keras
+checkpoint
+saved_model.pb
+logs/
+
+# Ignore Mac OS metadata
+.DS_Store
